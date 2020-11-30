@@ -1,0 +1,1 @@
+qemu-img resize /var/lib/libvirt/images/ubuntu.qcow2 +20G
